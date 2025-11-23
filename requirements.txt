@@ -1,4 +1,6 @@
 streamlit>=1.0
 opencv-python
-numpy
 requests
+torch
+torchvision
+numpy
