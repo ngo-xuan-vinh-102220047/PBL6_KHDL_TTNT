@@ -1,6 +1,7 @@
 streamlit>=1.0
-opencv-python
+opencv-python-headless
 requests
 torch
 torchvision
 numpy
+
