@@ -1,7 +1,13 @@
-streamlit>=1.0
+streamlit
+plotly
 opencv-python-headless
 requests
 torch
 torchvision
 numpy
-
+pandas
+os
+tempfile
+time 
+collections
+deque
